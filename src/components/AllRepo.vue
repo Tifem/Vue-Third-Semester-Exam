@@ -1,7 +1,7 @@
 <template>
-  <div class="container my-5">
+  <div class="container my-4">
     <div class="row">
-      <h1>All Repo</h1>
+      <h1 class="mb-3">List Of All Repositories</h1>
     </div>
   </div>
 </template>
