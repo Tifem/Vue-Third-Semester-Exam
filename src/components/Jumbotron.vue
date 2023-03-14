@@ -21,8 +21,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  .github{
-    width:"200px";
-    height:"400px";
-  }
+  
 </style>
